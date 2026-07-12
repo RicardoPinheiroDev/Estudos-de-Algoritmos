@@ -1,5 +1,10 @@
-Este curso é disponibilizado pelo professor Gustavo Guanabara, através do Curso em Vídeo <br>
-O Curso em Vídeo é um canal muito didático que se encontra no youtube, e tem uma grande variedade de cursos disponíveis online <br> 
-Durante o processo de aprendizagem, foi utilizado Portugol como linguagem de raciocínio e lógico
+Os exercicios desenvolvidos neste repositorio foram ofrecidos pelo cursoemvideo, foi utilizado a linguagem portugol para a resolução dos mesmos <br>
+O curso em video, e um canal com uma grande variedade de cursos online desde programação, redes e hardware ! <br>
+
+Portugol e uma linguagem de raciocinio e logico usado para a criação de algoritmos,ou seja o preparo fundamental de um algoritmo <br>
+Para poderem ver o output do codigo, podem utilizar um editor propoio, neste caso eu usei o visualg, mas também conseguem no visaul studio
+
+
+
 
 
