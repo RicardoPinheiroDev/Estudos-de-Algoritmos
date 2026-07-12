@@ -1,5 +1,5 @@
 Algoritmo "EXERCICIO_PRATICO02_MOSTRAR_VALORES_PARES_MATRIZ"
-// Data atual  : 12/07/2026
+// Data atual: 12/07/2026
 
 Var
    valores_pares: vetor[1..3,1..3] de Inteiro
