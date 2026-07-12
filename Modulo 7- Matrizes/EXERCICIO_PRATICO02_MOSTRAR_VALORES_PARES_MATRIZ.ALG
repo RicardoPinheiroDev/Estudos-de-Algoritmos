@@ -11,7 +11,7 @@ Inicio
          Escreval("Insira o valor da posicao [",linha,",",coluna, "] ")
          Escreva("-> ")
          Leia(valores_pares[linha,coluna])
-      FimPara                u
+      FimPara            
    FimPara
 
    Escreva()
