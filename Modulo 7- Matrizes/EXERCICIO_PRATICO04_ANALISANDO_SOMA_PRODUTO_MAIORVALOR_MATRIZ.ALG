@@ -1,8 +1,4 @@
 Algoritmo "EXERCICIO_PRATICO04_ANALISANDO_SOMA_PRODUTO_MAIORVALOR_MATRIZ"
-// Disciplina   : [Linguagem e Lógica de Programação]
-// Professor   : Antonio Carlos Nicolodi
-// Descrição   : Aqui você descreve o que o programa faz! (função)
-// Autor(a)    : Nome do(a) aluno(a)
 // Data atual  : 12/07/2026
 Var
    matriz: vetor[1..4, 1..4] de Inteiro
