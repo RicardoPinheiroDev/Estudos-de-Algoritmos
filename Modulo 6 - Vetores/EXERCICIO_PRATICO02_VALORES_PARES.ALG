@@ -1,8 +1,4 @@
 Algoritmo "EXERCICIO_PROPOSTO02_VALORES_PARES"
-// Disciplina   : [Linguagem e Lógica de Programação]
-// Professor   : Antonio Carlos Nicolodi 
-// Descrição   : Aqui você descreve o que o programa faz! (função)
-// Autor(a)    : Nome do(a) aluno(a)
 // Data atual  : 05/07/2026
 Var
    valores: vetor[1..7] de Inteiro
@@ -22,5 +18,5 @@ Inicio
            FimSe
       FimPara
       
-      Escreval("O numero total de valores pares é ", valores_pares)
+      Escreval("O numero total de valores pares Ã© ", valores_pares)
 Fimalgoritmo
