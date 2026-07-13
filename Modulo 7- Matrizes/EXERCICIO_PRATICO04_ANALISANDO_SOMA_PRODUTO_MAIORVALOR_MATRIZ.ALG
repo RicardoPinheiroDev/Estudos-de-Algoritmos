@@ -1,18 +1,16 @@
 Algoritmo "EXERCICIO_PRATICO04_ANALISANDO_SOMA_PRODUTO_MAIORVALOR_MATRIZ"
-// Disciplina   : [Linguagem e Lógica de Programação]
-// Professor   : Antonio Carlos Nicolodi
-// Descrição   : Aqui você descreve o que o programa faz! (função)
-// Autor(a)    : Nome do(a) aluno(a)
 // Data atual  : 12/07/2026
+// Update1, saber qual e o produto da linha escolhida pelo utilizador
+// Update2, saber qual e o maior valor da coluna escolhido pelo utilizador
 Var
    matriz: vetor[1..4, 1..4] de Inteiro
    linha,coluna,s_diagonal_p: Inteiro
-   produto_linha2, maior_valor_coluna3: Inteiro
-
+   produto_linha, maior_valor_coluna: Inteiro
+   valor_linha, valor_coluna: inteiro
 Inicio
 
    s_diagonal_p <- 0
-   produto_linha2 <- 1
+   produto_linha <- 1
 
    Para linha <- 1 ate 4 faca
       Para coluna <- 1 ate 4 faca
@@ -25,6 +23,17 @@ Inicio
          FimSe
       FimPara
    FimPara
+   limpatela
+
+   Escreval("=====As suas preferencias====")
+   Escreval("Escolha a linha para saber o produto: ")
+   Escreva("->")
+   Leia(valor_linha)
+
+   Escreval("Escolha a coluna para saber o maior valor: ")
+   Escreva("->")
+   Leia(valor_coluna)
+
    Escreval()
    Escreval("======  A sua matriz 4x4 ======")
    Escreval()
@@ -36,19 +45,19 @@ Inicio
    FimPara
 
    Para coluna <- 1 ate 4 faca
-      produto_linha2 <-produto_linha2 * matriz[2, coluna]
+      produto_linha <- produto_linha * matriz[valor_linha, coluna]
    FimPara
 
+
+
    Para linha <- 1 ate 4 faca
-      Se (matriz[1,3] > maior_valor_coluna3) entao
-         maior_valor_coluna3 <- matriz[1,3]
+      Se (matriz[linha,valor_coluna] > maior_valor_coluna) entao
+         maior_valor_coluna <- matriz[linha,valor_coluna]
       FimSe
    FimPara
 
    Escreval()
-   Escreval("A soma dos valores da diagonal principal e", s_diagonal_p)
-
-   Escreval("O produto dos valores da segunda linha e", produto_linha2)
-
-   Escreval("O maior valor da terceira coluna e", maior_valor_coluna3)
+   Escreval("A soma dos valores da diagonal principal e ", s_diagonal_p)
+   EscrevaL("O produto dos valores da linha",valor_linha," e ", produto_linha)
+   Escreval("O maior valor da",valor_coluna,"coluna e", maior_valor_coluna)
 Fimalgoritmo
