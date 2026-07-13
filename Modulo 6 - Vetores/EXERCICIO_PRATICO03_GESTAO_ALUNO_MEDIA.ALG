@@ -1,8 +1,4 @@
 Algoritmo "EXERCICIO_PRATICO03_gestao_aluno_media"
-// Disciplina   : [Linguagem e Lógica de Programação]
-// Professor   : Antonio Carlos Nicolodi
-// Descrição   : Aqui você descreve o que o programa faz! (função)
-// Autor(a)    : Nome do(a) aluno(a)
 // Data atual  : 06/07/2026
 Var
    nome: vetor[1..4] de Caractere
