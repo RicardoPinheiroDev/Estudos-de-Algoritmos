@@ -2,7 +2,8 @@ Os exercicios desenvolvidos neste repositorio foram disponibilizados pelo CursoE
 O curso em video, e um canal com uma grande variedade de cursos online desde programação, redes e hardware ! 
 
 Portugol e uma linguagem de raciocinio usado para a criação de algoritmos,ou seja o preparo fundamental de um algoritmo <br>
-Para poderem ver o output do codigo, podem utilizar um editor propoio, neste caso eu usei o visualg, mas também conseguem no visaul studio...
+Para poderem ver o output do codigo, podem utilizar um editor propoio, neste caso eu usei o visualg, mas também conseguem <br>
+ correr o codigo no Visual Studio code...
 
 
 
