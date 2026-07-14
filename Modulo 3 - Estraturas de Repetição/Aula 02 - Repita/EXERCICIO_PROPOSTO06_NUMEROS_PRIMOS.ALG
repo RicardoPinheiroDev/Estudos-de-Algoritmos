@@ -1,8 +1,4 @@
 Algoritmo "EXERCICIO_PROPOSTO06_NUMEROS_PRIMOS"
-// Disciplina   : [Linguagem e Lógica de Programação]
-// Professor   : Antonio Carlos Nicolodi 
-// Descrição   : Aqui você descreve o que o programa faz! (função)
-// Autor(a)    : Nome do(a) aluno(a)
 // Data atual  : 29/06/2026
 Var
    contador, valores_divisiveis, N: Inteiro

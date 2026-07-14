@@ -1,8 +1,4 @@
 Algoritmo "Exercicio_PROPOSTO02_MENU_CONTADOR"
-// Disciplina   : [Linguagem e Lógica de Programação]
-// Professor   : Antonio Carlos Nicolodi
-// Descrição   : Aqui você descreve o que o programa faz! (função)
-// Autor(a)    : Nome do(a) aluno(a)
 // Data atual  : 29/06/2026
 Var
    contador, opcoes: Inteiro
@@ -16,7 +12,7 @@ Inicio
       Escreval("[1] De 1 a 10")
       Escreval("[2] De 10 ate 1")
       Escreval("[3] Sair")
-      Escreva("Insira uma  opção: ")
+      Escreva("Insira uma  opï¿½ï¿½o: ")
       Leia(opcoes)
 
       Escolha opcoes

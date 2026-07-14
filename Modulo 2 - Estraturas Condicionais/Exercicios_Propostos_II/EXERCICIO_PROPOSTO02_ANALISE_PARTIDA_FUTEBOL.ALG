@@ -1,8 +1,4 @@
 Algoritmo "EXERCICIO_PROPOSTO02_Analise_partida_futebol"
-// Disciplina   : [Linguagem e Lógica de Programação]
-// Professor   : Antonio Carlos Nicolodi
-// Descrição   : Aqui você descreve o que o programa faz! (função)
-// Autor(a)    : Nome do(a) aluno(a)
 // Data atual  : 27/06/2026
 Var
  Equipa_1, Equipa_2: Caractere
@@ -30,15 +26,15 @@ Inicio
 
       Escolha total_golos
               Caso 0
-                    Escreval("Difrença: ", total_golos)
+                    Escreval("Difrenï¿½a: ", total_golos)
                     Escreval("Status: Empate")
 
               Caso 1,2,3
-                   Escreval("Difrença: ", total_golos)
+                   Escreval("Difrenï¿½a: ", total_golos)
                    Escreval("Status: Partida Normal")
 
               Caso 4,5
-                    Escreval("Difrença: ", total_golos)
+                    Escreval("Difrenï¿½a: ", total_golos)
                     Escreval("Status: Goleada")
               Outrocaso
                        Escreval("Status: Partida Increvel")

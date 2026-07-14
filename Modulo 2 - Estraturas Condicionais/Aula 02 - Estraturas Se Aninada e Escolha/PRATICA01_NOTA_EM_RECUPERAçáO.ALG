@@ -1,8 +1,4 @@
 Algoritmo "PRATICA01_NOTA_EM_RECUPERACAO"
-// Disciplina   : [Linguagem e Lógica de Programação]
-// Professor   : Antonio Carlos Nicolodi 
-// Descrição   : Aqui você descreve o que o programa faz! (função)
-// Autor(a)    : Nome do(a) aluno(a)
 // Data atual  : 25/06/2026
 Var
    N1, N2, media_notas: Real
@@ -23,7 +19,7 @@ Inicio
          Escreva("Aluno Aprovado")
       senao
            Se (media_notas > 5) e (media_notas < 7) entao
-              Escreval("Aluno em recuperação")
+              Escreval("Aluno em recuperaï¿½ï¿½o")
            senao
                 Escreval("Aluno Reprovado")
            FimSe

@@ -1,8 +1,4 @@
 Algoritmo "Pratica03_MENU_DE_DOACOES"
-// Disciplina   : [Linguagem e Lógica de Programação]
-// Professor   : Antonio Carlos Nicolodi 
-// Descrição   : Aqui você descreve o que o programa faz! (função)
-// Autor(a)    : Nome do(a) aluno(a)
 // Data atual  : 26/06/2026
 Var
    opcoes, valor_doacoes: Inteiro
@@ -29,13 +25,13 @@ Inicio
               Caso 3
                    valor_doacoes <- 50
               Caso 4
-                   Escreval("Qual é o valor da doação?")
+                   Escreval("Qual ï¿½ o valor da doaï¿½ï¿½o?")
                    Leia(valor_doacoes)
               Caso 5
                    valor_doacoes <- 0
       FimEscolha
       Escreval("====================")
-      Escreval("A sua doação foi de", valor_doacoes, "€")
+      Escreval("A sua doaï¿½ï¿½o foi de", valor_doacoes, "ï¿½")
       Escreval("Muito obrigado!")
 
 Fimalgoritmo

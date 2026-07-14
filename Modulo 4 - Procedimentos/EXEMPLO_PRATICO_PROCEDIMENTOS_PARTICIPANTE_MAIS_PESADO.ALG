@@ -1,8 +1,4 @@
 Algoritmo "EXEMPLO_PRATICO0_PROCEDIMENTO_PARTICIPANTE_MAIS_PESADO.ALG"
-// Disciplina   : [Linguagem e Lógica de Programação]
-// Professor   : Antonio Carlos Nicolodi
-// Descrição   : Aqui você descreve o que o programa faz! (função)
-// Autor(a)    : Nome do(a) aluno(a)
 // Data atual  : 01/07/2026
 Var
    contador: Inteiro
@@ -14,7 +10,7 @@ Procedimento Topo()
 Inicio
    Escreval("---------------------------------------------")
    Escreval("            Quem e o mais pesado?           ")
-   Escreval("O mais pesado até agora: ", mais_pesado, "Kg")
+   Escreval("O mais pesado atï¿½ agora: ", mais_pesado, "Kg")
    Escreval("---------------------------------------------")
 
 FimProcedimento

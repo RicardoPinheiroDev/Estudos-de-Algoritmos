@@ -1,11 +1,8 @@
 Algoritmo "EXERCICIO_PRATICO03_SOMA_IMPARES_0_E_10"
-// Disciplina   : [Linguagem e Lógica de Programação]
-// Professor   : Antonio Carlos Nicolodi
-// Descrição   : Aqui você descreve o que o programa faz! (função)
-// Autor(a)    : Nome do(a) aluno(a)
+
 // Data atual  : 01/07/2026
 Var
-   // Seção de Declarações das variáveis
+   // Seï¿½ï¿½o de Declaraï¿½ï¿½es das variï¿½veis
 
 
 Inicio

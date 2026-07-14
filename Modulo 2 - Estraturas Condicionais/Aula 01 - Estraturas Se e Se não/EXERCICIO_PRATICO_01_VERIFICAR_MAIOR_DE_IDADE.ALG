@@ -1,8 +1,4 @@
 Algoritmo "verificar_maior_de_idade_pratica_01"
-// Disciplina   : [Linguagem e Lógica de Programação]
-// Professor   : Antonio Carlos Nicolodi 
-// Descrição   : Aqui você descreve o que o programa faz! (função)
-// Autor(a)    : Nome do(a) aluno(a)
 // Data atual  : 25/06/2026
 Var
    ano_atual, ano_nascimento: Inteiro
@@ -18,6 +14,6 @@ Inicio
       Escreval("Em",ano_atual, " tens",idade, " anos!")
       
       Se ( idade > 18) entao
-         Escreval("E já és adulto !")
+         Escreval("E jï¿½ ï¿½s adulto !")
       FimSe
 FimAlgoritmo

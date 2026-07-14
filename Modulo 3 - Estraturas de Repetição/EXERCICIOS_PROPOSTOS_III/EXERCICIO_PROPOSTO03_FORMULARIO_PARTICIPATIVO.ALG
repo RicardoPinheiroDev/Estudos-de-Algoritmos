@@ -1,8 +1,4 @@
 Algoritmo "EXERCICIO_PROPOSTO03_FORMULARIO_PARTICIPATIVO"
-// Disciplina   : [Linguagem e Lógica de Programação]
-// Professor   : Antonio Carlos Nicolodi
-// Descrição   : Aqui você descreve o que o programa faz! (função)
-// Autor(a)    : Nome do(a) aluno(a)
 // Data atual  : 30/06/2026
 Var
    valor_genero, Resposta : caractere
@@ -21,7 +17,7 @@ Inicio
       Escreval("==============================")
       Escreval("   Formulario Participativo   ")
       Escreval("==============================")
-      Escreva("Qual é o genero?[H\M]: ")
+      Escreva("Qual ï¿½ o genero?[H\M]: ")
       Leia(valor_genero)
 
       Escreva("Insira a idade: ")
@@ -30,7 +26,7 @@ Inicio
       Escreval("Cor do cabelo: ")
       EscrevaL("[1] Castanho")
       EscrevaL("[2] Loiro")
-      Escreva("Insira uma opção: ")
+      Escreva("Insira uma opï¿½ï¿½o: ")
       Leia(opcoes_cabelo)
 
       Escolha opcoes_cabelo
@@ -49,7 +45,7 @@ Inicio
       limpatela
    Ate (Resposta = "N")
 
-   Escreva("O total de homens maiores de 18 com cabelo castanho é", cabelo_castanho)
-   Escreva("O total de mulheres entre 25 e 30 anos é", cabelo_loiro)
+   Escreva("O total de homens maiores de 18 com cabelo castanho ï¿½", cabelo_castanho)
+   Escreva("O total de mulheres entre 25 e 30 anos ï¿½", cabelo_loiro)
 
 Fimalgoritmo

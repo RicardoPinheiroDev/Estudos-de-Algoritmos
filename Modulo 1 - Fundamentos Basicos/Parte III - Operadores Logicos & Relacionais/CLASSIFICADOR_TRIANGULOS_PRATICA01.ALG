@@ -1,8 +1,4 @@
 Algoritmo "classificador_triangulos_pratica02"
-// Disciplina   : [Linguagem e Lógica de Programação]
-// Professor   : Antonio Carlos Nicolodi 
-// Descrição   : Aqui você descreve o que o programa faz! (função)
-// Autor(a)    : Nome do(a) aluno(a)
 // Data atual  : 24/06/2026
 Var
    L1, L2, L3: Real

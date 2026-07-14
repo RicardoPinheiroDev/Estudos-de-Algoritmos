@@ -1,9 +1,5 @@
 Algoritmo "Exercicio_Proposto01_melhor_aluno"
-// Disciplina   : [Linguagem e Lógica de Programação]
-// Professor   : Antonio Carlos Nicolodi 
-// Descrição   : Aqui você descreve o que o programa faz! (função)
-// Autor(a)    : Nome do(a) aluno(a)
-// Data atual  : 28/06/2026
+// Data atual  : 28/06/2026s
 Var
    quantidade_alunos, contador: Inteiro
    nome_aluno, melhor_aluno: Caractere

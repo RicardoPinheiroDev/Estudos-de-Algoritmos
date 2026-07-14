@@ -1,8 +1,4 @@
 Algoritmo "EXERCICIO_PRATICO4_SOMAR_NUMEROS"
-// Disciplina   : [Linguagem e Lógica de Programação]
-// Professor   : Antonio Carlos Nicolodi 
-// Descrição   : Aqui você descreve o que o programa faz! (função)
-// Autor(a)    : Nome do(a) aluno(a)
 // Data atual  : 27/06/2026
 Var
    Soma, contador, N: Inteiro

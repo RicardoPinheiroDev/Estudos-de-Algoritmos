@@ -1,8 +1,4 @@
-Algoritmo "funções_aritmetricas_pratica01"
-// Disciplina   : [Linguagem e Lógica de Programação]
-// Professor   : Antonio Carlos Nicolodi 
-// Descrição   : Aqui você descreve o que o programa faz! (função)
-// Autor(a)    : Nome do(a) aluno(a)
+Algoritmo "funï¿½ï¿½es_aritmetricas_pratica01"
 // Data atual  : 24/06/2026
 Var
    angulo, Seno: Real
@@ -13,7 +9,7 @@ Inicio
    Leia(angulo)
    Seno <- Sen(GraupRad(angulo))
    
-   Escreva("O seno de", angulo, " é igual a", Seno)
+   Escreva("O seno de", angulo, " ï¿½ igual a", Seno)
 
 
 Fimalgoritmo

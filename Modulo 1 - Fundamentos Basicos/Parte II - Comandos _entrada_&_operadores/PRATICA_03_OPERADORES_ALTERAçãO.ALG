@@ -1,8 +1,4 @@
-Algoritmo "pratica_03_operadores_alteração"
-// Disciplina   : [Linguagem e Lógica de Programação]
-// Professor   : Antonio Carlos Nicolodi 
-// Descrição   : Aqui você descreve o que o programa faz! (função)
-// Autor(a)    : Nome do(a) aluno(a)
+Algoritmo "pratica_03_operadores_alteraï¿½ï¿½o"
 // Data atual  : 24/06/2026
 Var
    N1, N2: Inteiro
@@ -18,7 +14,7 @@ Inicio
       
       Media <- (N1 + N2) / 2
       
-      Escreva("A media entre", N1, "e", N2, "é igual a", Media)
+      Escreva("A media entre", N1, "e", N2, "ï¿½ igual a", Media)
 
 
 Fimalgoritmo

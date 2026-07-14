@@ -1,8 +1,4 @@
 Algoritmo "Exercicio_Proposto01_Media_notas_com_classificacao"
-// Disciplina   : [Linguagem e Lógica de Programação]
-// Professor   : Antonio Carlos Nicolodi 
-// Descrição   : Aqui você descreve o que o programa faz! (função)
-// Autor(a)    : Nome do(a) aluno(a)
 // Data atual  : 26/06/2026
 Var
    N1, N2, Media-Notas: Real
@@ -18,31 +14,31 @@ Inicio
       Media_Notas <- (N1 + N2) \ 2
       
       Se (Media_Notas < 3.4) entao
-         EscrevaL("Média: ", Media_Notas)
-         EscrevaL("Classificação: Fraco")
+         EscrevaL("Mï¿½dia: ", Media_Notas)
+         EscrevaL("Classificaï¿½ï¿½o: Fraco")
       senao
            Se (Media_Notas >= 3.5) e (Media_Notas <= 9.4) entao
-               EscrevaL("Média: ", Media_Notas)
-               EscrevaL("Classificação: Insuficiente")
+               EscrevaL("Mï¿½dia: ", Media_Notas)
+               EscrevaL("Classificaï¿½ï¿½o: Insuficiente")
            senao
                 Se (Media_Notas <= 9.5) e (Media_Notas <= 13.4) entao
-                  EscrevaL("Média: ", Media_Notas)
-                  EscrevaL("Classificação: Suficiente")
+                  EscrevaL("Mï¿½dia: ", Media_Notas)
+                  EscrevaL("Classificaï¿½ï¿½o: Suficiente")
                 senao
                      Se(Media_Notas >= 13.5) e (Media_Notas <= 17.4) entao
                          Escreva("Media: ", Media_Notas)
-                         Escreval("Classificação: Bom")
+                         Escreval("Classificaï¿½ï¿½o: Bom")
                      senao
                           Se(Media_Notas >= 17.5) e (Media_Notas <= 19.5) entao
                               Escreva("Media: ", Media_Notas)
-                              Escreval("Classificação: Muito Bom")
+                              Escreval("Classificaï¿½ï¿½o: Muito Bom")
                           senao
                                Se(Media_Notas >=19.5) e (Media_Notas <= 20)
                                     Escreva("Media: ", Media_Notas)
-                                    Escreval("Classificação: Muito Bom")
+                                    Escreval("Classificaï¿½ï¿½o: Muito Bom")
                                senao
                                      Escreva("Media: ", Media_Notas)
-                                     Escreval("Classificação: Excelente")
+                                     Escreval("Classificaï¿½ï¿½o: Excelente")
                                FimSe
                           FimSe
                      FimSe

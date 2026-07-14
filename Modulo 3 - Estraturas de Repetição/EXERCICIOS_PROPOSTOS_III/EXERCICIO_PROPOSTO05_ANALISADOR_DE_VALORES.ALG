@@ -1,8 +1,4 @@
 Algoritmo "EXERCICIO_PROPOSTO05_ANALISADOR_DE_VALORES"
-// Disciplina   : [Linguagem e Lógica de Programação]
-// Professor   : Antonio Carlos Nicolodi
-// Descrição   : Aqui você descreve o que o programa faz! (função)
-// Autor(a)    : Nome do(a) aluno(a)
 // Data atual  : 01/07/2026
 Var
    contador, soma_valores, Valor, soma_pares, valores_nulos, divisiveis_cinco: Inteiro
@@ -35,10 +31,10 @@ Inicio
    media_valores <- soma_valores / contador
 
 
-   Escreval("A soma entre os valores digitados é ", soma_valores)
-   Escreval("A media entre os valores inseridos é ", media_valores)
-   Escreval("Os valores divisiveis por 5 são: ", divisiveis_cinco)
-   Escreval("Os valores nulos inseridos são: ", valores_nulos)
-   Escreval("A soma dos valores pares é ", soma_pares)
+   Escreval("A soma entre os valores digitados ï¿½ ", soma_valores)
+   Escreval("A media entre os valores inseridos ï¿½ ", media_valores)
+   Escreval("Os valores divisiveis por 5 sï¿½o: ", divisiveis_cinco)
+   Escreval("Os valores nulos inseridos sï¿½o: ", valores_nulos)
+   Escreval("A soma dos valores pares ï¿½ ", soma_pares)
 
 Fimalgoritmo

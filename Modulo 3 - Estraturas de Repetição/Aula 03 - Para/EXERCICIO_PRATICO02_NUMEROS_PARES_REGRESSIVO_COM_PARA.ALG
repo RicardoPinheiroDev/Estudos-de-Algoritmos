@@ -1,8 +1,4 @@
-Algoritmo "EXERCICIO_PRATICO03_SOMA_IMPARES_0_E_10"
-// Disciplina   : [Linguagem e Lógica de Programação]
-// Professor   : Antonio Carlos Nicolodi
-// Descrição   : Aqui você descreve o que o programa faz! (função)
-// Autor(a)    : Nome do(a) aluno(a)
+Algoritmo "EXERCICIO_PRATICO02_SOMA_IMPARES_0_E_10"
 // Data atual  : 01/07/2026
 Var
    contador, valor, total_entre_0_10, soma_impares: Inteiro
@@ -13,7 +9,7 @@ Inicio
       Escreva("Insira um valor: ")
       Leia(valor)
 
-      Se( valoe >= 0) e ( valor <= 10) entao
+      Se( valor >= 0) e ( valor <= 10) entao
          total_entre_0_10 <- total_entre_0_10 + 1
          Se (valor % 2 = 1) entao
             soma_impares <- soma_impares + valor

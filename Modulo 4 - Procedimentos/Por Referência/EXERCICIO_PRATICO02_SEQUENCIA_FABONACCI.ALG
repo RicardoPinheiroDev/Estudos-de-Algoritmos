@@ -1,8 +1,4 @@
 Algoritmo "EXERCICIO_PRATICO02_SEQUENCIA_FABONACCI"
-// Disciplina   : [Linguagem e Lógica de Programação]
-// Professor   : Antonio Carlos Nicolodi
-// Descrição   : Aqui você descreve o que o programa faz! (função)
-// Autor(a)    : Nome do(a) aluno(a)
 // Data atual  : 01/07/2026
 Var
    C, T1, T2, T3: Inteiro

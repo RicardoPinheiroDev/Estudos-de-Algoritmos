@@ -1,8 +1,4 @@
 Algoritmo "EXERCICIO_PROPOSTO04_SEQUENCIA_FABONACCIO_COM_PARA"
-// Disciplina   : [Linguagem e Lógica de Programação]
-// Professor   : Antonio Carlos Nicolodi
-// Descrição   : Aqui você descreve o que o programa faz! (função)
-// Autor(a)    : Nome do(a) aluno(a)
 // Data atual  : 01/07/2026
 Var
    valor_atual,valor_proximo, valor_anterior, seq_fabonacii, valor_temp: Inteiro

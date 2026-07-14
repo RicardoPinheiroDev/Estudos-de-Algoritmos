@@ -1,8 +1,4 @@
 Algoritmo "EXERCICIO_PROPOSTO02_FUNCOES_CALCULO_FATORIAL"
-// Disciplina   : [Linguagem e Lógica de Programação]
-// Professor   : Antonio Carlos Nicolodi
-// Descrição   : Aqui você descreve o que o programa faz! (função)
-// Autor(a)    : Nome do(a) aluno(a)
 // Data atual  : 02/07/2026
 Var
    N, Fatorial: Inteiro

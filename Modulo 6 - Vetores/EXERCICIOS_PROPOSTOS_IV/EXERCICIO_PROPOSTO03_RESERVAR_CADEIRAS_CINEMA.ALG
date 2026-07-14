@@ -1,8 +1,4 @@
-Algoritmo "EXERCICIO_PROPOSTO03_reservar_cadeiras_cinema"
-// Disciplina   : [Linguagem e Lógica de Programação]
-// Professor   : Antonio Carlos Nicolodi
-// Descrição   : Aqui você descreve o que o programa faz! (função)
-// Autor(a)    : Nome do(a) aluno(a)
+Algoritmo "EXERCICIO_PROPOSTO01_reservar_cadeiras_cinema"
 // Data atual  : 11/07/2026
 
 // Update, implementar quantas cadeiras o utilizador reservou
@@ -34,7 +30,7 @@ Inicio
    limpatela
 
    Repita
-      EscrevaL("Olá ", valor_nome, "!")
+      EscrevaL("Olï¿½ ", valor_nome, "!")
       SalaFilaB()
       Escreva("Queres reservar que cadeira? B-")
       Leia(posicao_cadeira)

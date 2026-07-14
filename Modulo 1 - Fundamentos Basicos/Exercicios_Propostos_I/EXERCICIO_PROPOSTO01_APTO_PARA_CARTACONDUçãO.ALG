@@ -1,8 +1,4 @@
-Algoritmo "Exercicio_Proposto01_apto_para_cartacondução"
-// Disciplina   : [Linguagem e Lógica de Programação]
-// Professor   : Antonio Carlos Nicolodi 
-// Descrição   : Aqui você descreve o que o programa faz! (função)
-// Autor(a)    : Nome do(a) aluno(a)
+Algoritmo "Exercicio_Proposto01_apto_para_cartaconduï¿½ï¿½o"
 // Data atual  : 25/06/2026
 Var
    ano_atual, ano_nascimento, idade: inteiro
@@ -24,7 +20,7 @@ Inicio
       Se ( idade > 18) entao
          Escreval("Estas apto para tirar a carta com", idade, " anos!")
       senao
-           Escreval("Não estás apto para tirar a carta...", idade, " anos!")
+           Escreval("Nï¿½o estï¿½s apto para tirar a carta...", idade, " anos!")
       FimSe
 
 Fimalgoritmo

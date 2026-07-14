@@ -1,8 +1,4 @@
-Algoritmo "funções_aritmeticas_exemplo"
-// Disciplina   : [Linguagem e Lógica de Programação]
-// Professor   : Antonio Carlos Nicolodi 
-// Descrição   : Aqui você descreve o que o programa faz! (função)
-// Autor(a)    : Nome do(a) aluno(a)
+Algoritmo "funï¿½ï¿½es_aritmeticas_exemplo"
 // Data atual  : 24/06/2026
 Var
    //A: Inteiro

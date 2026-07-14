@@ -1,8 +1,4 @@
 Algoritmo "comando_entrada_exemplo_1"
-// Disciplina   : [Linguagem e Lógica de Programação]
-// Professor   : Antonio Carlos Nicolodi 
-// Descrição   : Aqui você descreve o que o programa faz! (função)
-// Autor(a)    : Nome do(a) aluno(a)
 // Data atual  : 23/06/2026
 Var
    msg: caractere
@@ -10,9 +6,9 @@ Var
 
 Inicio
 //Alternativa 1)
-     // Escreval("Olá, mundo!")
-     //Escreva("Ups pareçe que me livrei da maldição!")
+     // Escreval("Olï¿½, mundo!")
+     //Escreva("Ups pareï¿½e que me livrei da maldiï¿½ï¿½o!")
 //Alternativa 2)
-     msg <- "Olá, mundo!"
+     msg <- "Olï¿½, mundo!"
      Escreva("Mensagem: ",msg)
 Fimalgoritmo
